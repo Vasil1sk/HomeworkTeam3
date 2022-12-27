@@ -4,4 +4,4 @@
 - ***Профессия:*** *Ведьмак*
 
 **Мой портрет**
-![](https://static.wikia.nocookie.net/vedmak/images/7/7c/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B3%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D1%82%D0%B03%D0%923.png/revision/latest?cb=20170401075351)
+![](MyPainting.png)
